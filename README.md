@@ -50,8 +50,8 @@ This is a real, operational SIEM environment.
 
 ## SIEM Evidence
 
-![Agent](screenshots/<filename1>.png)
-![FIM Events](screenshots/<filename2>.png)
+![Agent](screenshots/Agent inventory.png)
+![FIM Events](screenshots/Files monitored.png)
 ![Dashboard](screenshots/<filename3>.png)
 ![Inventory](screenshots/<filename4>.png)
 ![Files](screenshots/<filename5>.png)
