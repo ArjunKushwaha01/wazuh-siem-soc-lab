@@ -50,10 +50,21 @@ This is a real, operational SIEM environment.
 
 ## SIEM Evidence
 
-![Agent](screenshots/<filemane1>.png)
-![FIM Events](screenshots/<filemane2>.png)
-![Dashboard](screenshots/<filename3>.png)
-![Inventory](screenshots/<filename4>.png)
-![Files](screenshots/<filename5>.png)
-![Overview](screenshots/<filename6>.png)
+### Windows Agent Connected
+![Agent](screenshots/Windows%20agent%20connected.png)
+
+### File Integrity Events
+![FIM Events](screenshots/File%20integrity%20events.png)
+
+### FIM Dashboard
+![Dashboard](screenshots/FIM%20dashboard.png)
+
+### Agent Inventory
+![Inventory](screenshots/Agent%20inventory.png)
+
+### Files Being Monitored
+![Files](screenshots/Files%20monitored.png)
+
+### Wazuh SOC Overview
+![Overview](screenshots/Wazuh%20overview%20dashboard.png)
 
