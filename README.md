@@ -48,9 +48,12 @@ This is a real, operational SIEM environment.
 
 ---
 
-## Screenshots
-See `/screenshots` for:
-- Agent status
-- File integrity events
-- Alerts
-- Dashboards
+## SIEM Evidence
+
+![Agent](screenshots/<filename1>.png)
+![FIM Events](screenshots/<filename2>.png)
+![Dashboard](screenshots/<filename3>.png)
+![Inventory](screenshots/<filename4>.png)
+![Files](screenshots/<filename5>.png)
+![Overview](screenshots/<filename6>.png)
+
